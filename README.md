@@ -2,7 +2,7 @@
 
 > Un tableau Kanban élégant, premium et entièrement responsive, construit avec Vue 3 et Vite.
 
-🌐 **[Tester l'Application en Ligne (Live Demo) 🚀](https://VOTRE_LIEN_PRECIS_ICI.com)**
+🌐 **[Tester l'Application en Ligne (Live Demo) 🚀](https://zen-kanban.vercel.app/)**
 
 ZenKanban réinvente le traditionnel tableau Kanban pour offrir l'expérience et le design d'un produit SaaS haut de gamme. L'application combine une esthétique moderne avec une productivité fonctionnelle pour proposer un environnement de travail apaisant et efficace.
 
